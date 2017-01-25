@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "967A91DA22D92115A0738F70601EC874F3A8FFFA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "967A91DA22D92115A0738F70601EC874F3A8FFFA" : 9223372036854775807,
+    "C48D8535BFB031B4A6D7C5ABDF12502F93FE8F65" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4322F2F2-7EB1-41D2-BA13-19BD7E1B49EE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "967A91DA22D92115A0738F70601EC874F3A8FFFA" : "VanduratvOSBrowser\/",
+    "C48D8535BFB031B4A6D7C5ABDF12502F93FE8F65" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Browser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Browser.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pabloelizalde\/tvOSBrowser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "967A91DA22D92115A0738F70601EC874F3A8FFFA"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Suitsupply\/CustomerApp-HubFramework-Test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C48D8535BFB031B4A6D7C5ABDF12502F93FE8F65"
+    }
+  ]
+}

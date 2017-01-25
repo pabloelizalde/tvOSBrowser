@@ -115,7 +115,7 @@
 				TargetAttributes = {
 					B002B8611BAE420500C744AF = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = NKQ4HJ66PX;
+						DevelopmentTeam = U6DEYYYC68;
 					};
 				};
 			};
@@ -278,6 +278,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = U6DEYYYC68;
 				FRAMEWORK_SEARCH_PATHS = "/System/Library/PrivateFrameworks/**";
 				INFOPLIST_FILE = Browser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -294,6 +295,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = U6DEYYYC68;
 				FRAMEWORK_SEARCH_PATHS = "/System/Library/PrivateFrameworks/**";
 				INFOPLIST_FILE = Browser/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
